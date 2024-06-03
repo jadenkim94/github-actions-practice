@@ -21,18 +21,18 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,7 +41,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717380071150</updated>
-      <workItem from="1717380072463" duration="1434000" />
+      <workItem from="1717380072463" duration="2913000" />
+      <workItem from="1717387668493" duration="628000" />
     </task>
     <task id="LOCAL-00001" summary="github workflow test">
       <option name="closed" value="true" />
@@ -51,7 +52,31 @@
       <option name="project" value="LOCAL" />
       <updated>1717380645256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="여러 명렁어 문장 작성 테스트">
+      <option name="closed" value="true" />
+      <created>1717381520425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717381520425</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Github Actions 자체에 저장되어 있는 변수 사용 테스트">
+      <option name="closed" value="true" />
+      <created>1717381733205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717381733205</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Github Actions 자체에 저장되어 있는 변수 사용 테스트2">
+      <option name="closed" value="true" />
+      <created>1717381790525</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717381790525</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,6 +84,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="github workflow test" />
-    <option name="LAST_COMMIT_MESSAGE" value="github workflow test" />
+    <MESSAGE value="여러 명렁어 문장 작성 테스트" />
+    <MESSAGE value="Github Actions 자체에 저장되어 있는 변수 사용 테스트" />
+    <MESSAGE value="Github Actions 자체에 저장되어 있는 변수 사용 테스트2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Github Actions 자체에 저장되어 있는 변수 사용 테스트2" />
   </component>
 </project>
