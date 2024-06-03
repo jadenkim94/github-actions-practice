@@ -41,11 +41,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717380071150</updated>
-      <workItem from="1717380072463" duration="532000" />
+      <workItem from="1717380072463" duration="1434000" />
     </task>
+    <task id="LOCAL-00001" summary="github workflow test">
+      <option name="closed" value="true" />
+      <created>1717380645256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717380645256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="github workflow test" />
+    <option name="LAST_COMMIT_MESSAGE" value="github workflow test" />
   </component>
 </project>
